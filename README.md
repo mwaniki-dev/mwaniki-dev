@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mwaniki-dev
+- 👀 I’m interested in being a Flutter Android developer and Django stack developer
+- 🌱 I’m currently learning Flutter and Python
+- 💞️ I’m looking to collaborate on projects that shall have a positive impact on the world
+- 📫 Reach me via email @  cyrilmwaniki0@gmail.com
